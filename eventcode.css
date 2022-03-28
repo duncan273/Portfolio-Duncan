@@ -1,0 +1,20 @@
+
+
+img {
+    width: 650px;
+    height: 650px;
+}
+
+body {
+    background-color: #1e1e1e;
+}
+
+.terug {
+    float: right;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #44546a;
+}

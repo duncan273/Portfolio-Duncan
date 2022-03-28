@@ -1,0 +1,35 @@
+img {
+    width: 30px;
+    height: 30px;
+}
+
+.refresh {
+    border-radius: 10px;
+    color: #44546a;
+    text-align: center;
+    margin-left: 660px;
+}
+
+.quote {
+    color: #44546a;
+    font-family: fantasy;
+    font-size: 40px;
+    padding-top: 230px;
+    text-align: center;
+}
+
+.copyright {
+    color: #44546a;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: #44546a;
+    text-decoration: none;
+}
+
+.code {
+    float: right;
+}
